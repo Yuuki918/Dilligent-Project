@@ -1,0 +1,21 @@
+review_id,product_id,rating,review_text
+1,4,2,Good quality
+2,4,2,Poor quality
+3,10,5,Good quality
+4,4,4,Average
+5,3,4,Good quality
+6,2,3,Worth the price
+7,1,1,Excellent
+8,8,5,Excellent
+9,7,5,Poor quality
+10,6,4,Average
+11,3,4,Excellent
+12,4,4,Excellent
+13,7,3,Good quality
+14,1,2,Good quality
+15,6,1,Poor quality
+16,10,1,Worth the price
+17,2,3,Good quality
+18,1,1,Excellent
+19,10,1,Excellent
+20,8,3,Poor quality
