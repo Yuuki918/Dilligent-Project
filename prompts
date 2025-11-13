@@ -1,0 +1,4 @@
+generate a python code to create 5 synthetic E-Commerce datasets wich can be converted to csv files 
+complete the project without using faker
+Write Python code to load all CSVs into a SQLite database
+Generate a SQL query joining orders, customers, and products.
